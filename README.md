@@ -19,5 +19,11 @@
  ```
  CREATE DATABASE bookmark_manager;
  ```
-
  To set up the appropriate tables, connect to the database in `psql` and run the SQL scripts in the `db/migrations` folder in the given order.
+
+ CREATE DATABASE bookmark_manager_test; 
+
+$> psql
+admin=# CREATE DATABASE "bookmark_manager_test";
+admin=# CREATE TABLE bookmarks(id SERIAL PRIMARY KEY, url VARCHAR(60));
+
