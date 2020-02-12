@@ -27,6 +27,18 @@
           null
         ]
       },
+      "/Users/hansa/makers/week4/bookmark/spec/features/add_bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          null,
+          null
+        ]
+      },
       "/Users/hansa/makers/week4/bookmark/spec/features/feature_spec.rb": {
         "lines": [
           1,
@@ -57,6 +69,6 @@
         ]
       }
     },
-    "timestamp": 1581442221
+    "timestamp": 1581524239
   }
 }
