@@ -8,6 +8,10 @@
  So I can keep a list of all my bookmarks
  I want to show a list of my bookmarks 
 
+ As a user 
+ So I can keep my bookmarks up to date
+ I would like to add a new bookmark 
+
  # Domain model
 
  ![Domain model diagram](https://github.com/makersacademy/course/blob/master/bookmark_manager/images/bookmark_manager_1.png?raw=true)
