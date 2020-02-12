@@ -1,8 +1,8 @@
-<h1> Bookmark Manager </h1>
-
-<ul>
-  <% @list.each do |bookmark|%>
-    <li><%= bookmark %></li>
-  <% end %> 
-</ul>
- 
+<h1>Bookmark Manager</h1>
+<div>
+  <h2>Add Bookmark</h2>
+  <form action='/add_bookmark' method='post'>
+    <input type='text' name='new_bookmark'>
+    <input type='submit' name='Add Bookmark'>
+  </form>
+</div>
