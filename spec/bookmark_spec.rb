@@ -1,10 +1,10 @@
-require 'bookmark' 
+require 'bookmark'
 
-describe Bookmark do 
+describe Bookmark do
 
-  describe '#all' do 
-   
-    it 'returns all bookmarks' do 
+  describe '#all' do
+
+    it 'returns all bookmarks' do
 
       connection = PG.connect(dbname: 'bookmark_manager_test')
 
@@ -19,4 +19,4 @@ describe Bookmark do
       expect(bookmarks).to include('http://www.google.com')
     end
   end
-end 
+end

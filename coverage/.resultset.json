@@ -10,15 +10,6 @@
           1,
           null,
           1,
-          null,
-          1,
-          null,
-          1,
-          1,
-          1,
-          null,
-          1,
-          null,
           1,
           1,
           1,
@@ -52,23 +43,25 @@
       "/Users/peterdean/Projects/Week_4/Bookmark-manager/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           1,
-          1,
-          1,
           null,
           1,
           1,
           1,
-          null,
+          1,
           1,
           null,
+          null,
           1,
-          0,
-          0,
+          1,
+          1,
+          1,
+          1,
+          null,
           null,
           null
         ]
       }
     },
-    "timestamp": 1581527980
+    "timestamp": 1581590235
   }
 }
